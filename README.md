@@ -1,8 +1,6 @@
 <div align="center">
   <br/>
-  <br/>
   <h2 align="center">박선교 | Frontend Developer</h2>
-  <br/>
   <p align="center">
     요구사항을 비즈니스 로직으로 구현하고, 서비스의 문제를 해결하며 지속 가능한 구조를 고민하는 프론트엔드 개발자입니다.
   </p>
