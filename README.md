@@ -35,11 +35,11 @@
     <img width=81% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sun-kyo&theme=nord_dark" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
     <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sun-kyo&theme=nord_dark" />
     <img width=25% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sun-kyo&theme=nord_dark" />
     <img width=30% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sun-kyo" />
-</div> -->
+</div>
 <br/>
 
 ---
